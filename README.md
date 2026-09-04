@@ -1,6 +1,6 @@
-# CVeebee Clone
+# CV Clone
 
-A clean, responsive application for CVeeBee.
+A clean, responsive application for CV.
 
 ## Development
 

@@ -77,14 +77,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "CVeeBee" },
-      { name: "description", content: "CVeeBee — Your career, simplified." },
-      { name: "author", content: "CVeeBee" },
-      { property: "og:title", content: "CVeeBee" },
-      { property: "og:description", content: "CVeeBee — Your career, simplified." },
+      { title: "CV" },
+      { name: "description", content: "CV — Your career, simplified." },
+      { name: "author", content: "CV" },
+      { property: "og:title", content: "CV" },
+      { property: "og:description", content: "CV — Your career, simplified." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@CVeeBee" },
+      { name: "twitter:site", content: "@CV" },
     ],
     links: [
       {

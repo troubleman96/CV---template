@@ -68,7 +68,7 @@ function Index() {
 
             <Reveal delay={140}>
               <p className="mt-6 max-w-2xl text-base text-muted-foreground sm:text-lg md:text-xl">
-                CVeeBee uses smart AI to analyze job descriptions, optimize ATS keywords, and format professional resumes designed to land interviews.
+                CV uses smart AI to analyze job descriptions, optimize ATS keywords, and format professional resumes designed to land interviews.
               </p>
             </Reveal>
 
@@ -173,7 +173,7 @@ function Index() {
         {/* FEATURES / BENEFITS SECTION */}
         <section className="shell py-20 md:py-28">
           <SectionHeading
-            eyebrow="Why Choose CVeeBee"
+            eyebrow="Why Choose CV"
             title="Everything You Need to Win Your Next Role"
             description="Designed from the ground up to give candidates a competitive edge with modern ATS technology and clean design."
           />
@@ -288,7 +288,7 @@ function Index() {
             <SectionHeading
               eyebrow="Success Stories"
               title="Loved by Job Seekers Worldwide"
-              description="Here is what candidates have to say about their experience using CVeeBee."
+              description="Here is what candidates have to say about their experience using CV."
             />
 
             <div className="mt-14 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -321,7 +321,7 @@ function Index() {
           <SectionHeading
             eyebrow="Got Questions?"
             title="Frequently Asked Questions"
-            description="Find quick answers to common questions about CVeeBee, ATS optimization, and account features."
+            description="Find quick answers to common questions about CV, ATS optimization, and account features."
           />
 
           <div className="mt-12">

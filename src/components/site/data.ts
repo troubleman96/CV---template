@@ -68,31 +68,31 @@ export const jobs: Job[] = [
 export const testimonials = [
   {
     quote:
-      "Before using CVeeBee, I barely got any callbacks. After optimizing my keywords and rewriting my resume with the AI, I started receiving interview invitations within a week. The process was fast, simple, and surprisingly accurate.",
+      "Before using CV, I barely got any callbacks. After optimizing my keywords and rewriting my resume with the AI, I started receiving interview invitations within a week. The process was fast, simple, and surprisingly accurate.",
     name: "Nantaraya",
     role: "Marketing Specialist",
   },
   {
     quote:
-      "I was skeptical at first, but CVeeBee transformed my job search. The AI recommendations helped me highlight my strengths, and I secured a job offer just days after applying!",
+      "I was skeptical at first, but CV transformed my job search. The AI recommendations helped me highlight my strengths, and I secured a job offer just days after applying!",
     name: "Jamal",
     role: "Software Engineer",
   },
   {
     quote:
-      "The real-time feedback feature in CVeeBee helped me spot weak sentences and improve them instantly. I rewrote my resume in under 20 minutes, and it looked way more professional and structured than before.",
+      "The real-time feedback feature in CV helped me spot weak sentences and improve them instantly. I rewrote my resume in under 20 minutes, and it looked way more professional and structured than before.",
     name: "Daniel",
     role: "UI Designer",
   },
   {
     quote:
-      "I only shared my GitHub and project links, and CVeeBee turned them into clean, well-written resume sections. It saved me hours of writing and helped me explain my work much better.",
+      "I only shared my GitHub and project links, and CV turned them into clean, well-written resume sections. It saved me hours of writing and helped me explain my work much better.",
     name: "Kenji",
     role: "UI Designer",
   },
   {
     quote:
-      "As a fresh graduate, I had no idea how to write a strong resume. CVeeBee guided me step by step and helped me highlight my skills even with limited experience.",
+      "As a fresh graduate, I had no idea how to write a strong resume. CV guided me step by step and helped me highlight my skills even with limited experience.",
     name: "Aaliyah",
     role: "Marketing",
   },
@@ -100,16 +100,16 @@ export const testimonials = [
 
 export const faqs = [
   {
-    q: "What is CVeeBee?",
-    a: "CVeeBee is an AI-powered resume builder that helps you create, optimize, and personalize your resume in minutes using smart automation and job-specific keywords.",
+    q: "What is CV?",
+    a: "CV is an AI-powered resume builder that helps you create, optimize, and personalize your resume in minutes using smart automation and job-specific keywords.",
   },
   {
     q: "Will my resume be ATS-friendly?",
     a: "Yes. All resumes are built using ATS-optimized layouts and keyword structures, ensuring your resume passes applicant tracking systems and reaches human recruiters successfully.",
   },
   {
-    q: "Is CVeeBee free to use?",
-    a: "CVeeBee offers a free plan to get started, with optional premium features for advanced templates, deeper AI optimization, and unlimited resume downloads.",
+    q: "Is CV free to use?",
+    a: "CV offers a free plan to get started, with optional premium features for advanced templates, deeper AI optimization, and unlimited resume downloads.",
   },
   {
     q: "Can I upload my existing CV?",
@@ -120,15 +120,15 @@ export const faqs = [
     a: "Our AI analyzes job descriptions and your resume content to suggest relevant keywords, improving visibility, ATS compatibility, and alignment with recruiter expectations.",
   },
   {
-    q: "Can CVeeBee help fresh graduates?",
-    a: "Yes. CVeeBee is ideal for students and fresh graduates, offering guided resume creation, entry-level templates, and AI suggestions even with limited work experience.",
+    q: "Can CV help fresh graduates?",
+    a: "Yes. CV is ideal for students and fresh graduates, offering guided resume creation, entry-level templates, and AI suggestions even with limited work experience.",
   },
   {
     q: "What formats can I download my resume in?",
     a: "You can download your resume in multiple formats, including PDF and DOCX, ensuring compatibility with job portals, email applications, and recruiter systems.",
   },
   {
-    q: "Is my data safe on CVeeBee?",
+    q: "Is my data safe on CV?",
     a: "Yes. Your data is securely stored using industry-standard encryption and is never shared or sold. You remain in full control of your information at all times.",
   },
 ];

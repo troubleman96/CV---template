@@ -21,7 +21,7 @@ export function CtaSection() {
           </Reveal>
           <Reveal delay={80}>
             <h2 className="h-section max-w-3xl text-[#1f1f1f]">
-              Build a Job-Winning Resume in Minutes with CVeeBee
+              Build a Job-Winning Resume in Minutes with CV
             </h2>
           </Reveal>
           <Reveal delay={140}>

@@ -32,7 +32,7 @@ export function SiteFooter() {
           <div className="max-w-sm">
             <Logo />
             <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
-              CVeeBee helps you write, optimize, and design a job-ready resume with AI — so you
+              CV helps you write, optimize, and design a job-ready resume with AI — so you
               spend less time editing and more time interviewing.
             </p>
             <div className="mt-6 flex gap-2">
@@ -84,7 +84,7 @@ export function SiteFooter() {
         </div>
 
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-border pt-6 text-sm text-muted-foreground md:flex-row">
-          <p>© {new Date().getFullYear()} CVeeBee. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} CV. All rights reserved.</p>
           <div className="flex gap-6">
             <Link to="/contact" className="transition-colors hover:text-foreground">
               Privacy Policy

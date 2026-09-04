@@ -22,7 +22,7 @@ export function LogoMark({
   return (
     <img
       src={logoImg}
-      alt="CVeeBee logo"
+      alt="CV logo"
       className={`rounded-lg object-contain ${className}`}
       style={style}
       draggable={false}
@@ -39,7 +39,7 @@ export function Logo({ className = "", showName = true, size }: LogoProps) {
       <LogoMark size={size ?? 32} className="" />
       {showName && (
         <span className="text-lg font-semibold tracking-tight text-foreground">
-          CVeeBee
+          CV
         </span>
       )}
     </span>

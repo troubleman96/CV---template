@@ -18,5 +18,5 @@ export function reportError(
 
   const stack = error instanceof Error ? error.stack : undefined;
 
-  console.error("[CVeeBee Error]", message, { stack, ...context });
+  console.error("[CV Error]", message, { stack, ...context });
 }
